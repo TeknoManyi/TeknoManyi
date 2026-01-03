@@ -1,16 +1,55 @@
-## Hi there 👋
+# Ben Salih ALTUN
 
-<!--
-**TeknoManyi/TeknoManyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elektrik–Elektronik Mühendisliğİ 1. Sınıf Öğrencisiyim 
+Akıllı ev sistemleri, IoT ve yapay zekâ destekli otomasyonlar üzerine çalışan bir geliştiriciyim.  
+Çalışmalarım, teorik altyapıyı pratik uygulamalarla birleştirmeye ve gerçek dünya problemlerine
+ölçeklenebilir teknik çözümler üretmeye odaklanmaktadır.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Akademik ve Teknik İlgi Alanları
+- Akıllı ev sistemleri ve bina otomasyonu  
+- IoT mimarileri ve MQTT tabanlı haberleşme  
+- Gömülü sistemler ve donanım–yazılım entegrasyonu  
+- Yapay zekâ destekli kontrol ve karar mekanizmaları  
+- Enerji verimliliği ve sistem optimizasyonu  
+
+---
+
+## Teknik Yetkinlikler
+
+**Yazılım**
+- Python (Temel Düzeyde)
+- C++ (Temel Düzeyde)  
+- YAML (otomasyon ve sistem konfigürasyonu)
+
+**IoT & Akıllı Sistemler**
+- Home Assistant
+- ESPHome
+- Node Red
+- Tasmota  
+- MQTT
+
+**Donanım**
+- Deneyap Kart / Deneyap Mini  
+- Raspberry Pi  
+- ESP tabanlı sistemler  
+- Çeşitli çevresel sensörler ve röle modülleri
+
+**Prototipleme**
+- 3D yazıcı 
+- Temel elektronik devre tasarımı
+
+
+---
+
+## Çalışma Yaklaşımı
+- Yerel (local) çalışan ve güvenlik odaklı sistemler geliştiririm  
+- Cloud bağımlılığını minimum seviyede tutmayı hedeflerim  
+- Modüler, sürdürülebilir ve genişletilebilir mimarileri tercih ederim   
+
+---
+
+## Güncel Odak Noktaları
+- Yapay zekâ destekli akıllı ev senaryoları  
+- Sesli asistanlar ile otomasyon sistemlerinin entegrasyonu  
