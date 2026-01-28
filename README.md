@@ -52,4 +52,14 @@ Akıllı ev sistemleri, IoT ve yapay zekâ destekli otomasyonlar üzerine çalı
 
 ## Güncel Odak Noktaları
 - Yapay zekâ destekli akıllı ev senaryoları  
-- Sesli asistanlar ile otomasyon sistemlerinin entegrasyonu  
+- Sesli asistanlar ile otomasyon sistemlerinin entegrasyonu
+  
+## 🌐 Sosyal Medya & İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salih-altun-663212240)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teknomanyi)
+[![Instagram 3D](https://img.shields.io/badge/Instagram_3D-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teknomanyi3dprint)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/teknomanyi)
+[![Telegram](https://img.shields.io/badge/Telegram-%232491D3.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/teknomanyi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teknomanyi@gmail.com)
+
