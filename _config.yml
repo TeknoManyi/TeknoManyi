@@ -3,3 +3,4 @@ baseurl: ""
 theme: jekyll-theme-architect
 title: Salih ALTUN (TeknoManyi)
 description: IoT, Akıllı Ev, Robotik ve EEM Projeleri
+favicon: /favicon.ico
