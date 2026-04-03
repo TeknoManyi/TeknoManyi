@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
+url: "https://www.teknomanyi.com.tr"
+baseurl: "" 
+theme: jekyll-theme-slate
 title: Salih ALTUN (TeknoManyi)
 description: IoT, Akıllı Ev, Robotik ve EEM Projeleri
