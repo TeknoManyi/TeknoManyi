@@ -1,4 +1,4 @@
-# Salih ALTUN
+# Hakkımda
 
 Elektrik–Elektronik Mühendisliğİ 1. Sınıf Öğrencisiyim 
 Akıllı ev sistemleri, IoT ve yapay zekâ destekli otomasyonlar üzerine çalışan bir geliştiriciyim.  
