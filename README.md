@@ -7,7 +7,7 @@ Akıllı ev sistemleri, IoT ve yapay zekâ destekli otomasyonlar üzerine çalı
 
 ---
 
-## Akademik ve Teknik İlgi Alanları
+## Teknik İlgi Alanları
 - Akıllı ev sistemleri ve bina otomasyonu  
 - IoT mimarileri ve MQTT tabanlı haberleşme  
 - Gömülü sistemler ve donanım–yazılım entegrasyonu  
@@ -42,13 +42,6 @@ Akıllı ev sistemleri, IoT ve yapay zekâ destekli otomasyonlar üzerine çalı
 - Temel elektronik devre tasarımı
 - Temel 3D çizim
 
-
----
-
-## Çalışma Yaklaşımı
-- Yerel (local) çalışan ve güvenlik odaklı sistemler geliştiririm  
-- Cloud bağımlılığını minimum seviyede tutmayı hedeflerim  
-- Modüler, sürdürülebilir ve genişletilebilir mimarileri tercih ederim   
 
 ---
 
