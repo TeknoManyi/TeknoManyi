@@ -1,6 +1,6 @@
 # Hakkımda
 
-Elektrik–Elektronik Mühendisliğİ 1. Sınıf Öğrencisiyim 
+Elektrik–Elektronik Mühendisliğİ 2. Sınıf Öğrencisiyim 
 Akıllı ev sistemleri, IoT ve yapay zekâ destekli otomasyonlar üzerine çalışan bir geliştiriciyim.  
 Çalışmalarım, teorik altyapıyı pratik uygulamalarla birleştirmeye ve gerçek dünya problemlerine
 ölçeklenebilir teknik çözümler üretmeye odaklanmaktadır.
